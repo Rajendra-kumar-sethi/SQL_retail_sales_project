@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL Project
+# SQL retail sales analysis project
 
 ## Project Overview
 
