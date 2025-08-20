@@ -197,4 +197,4 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Author - Rajendra kumar sethi
 
-Thank you for your support, and I look forward to connecting with you!
+Thank you !
